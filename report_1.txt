@@ -1,0 +1,23 @@
+Title:
+
+ 
+Bug_id: 
+
+Telegram nickname: 
+
+Severity: 
+Priority: 
+
+Environment: 
+		  
+Precondition: 
+
+STR:
+1) 
+
+AR:
+
+ER:
+
+
+Attachments:
